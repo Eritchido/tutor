@@ -2,8 +2,11 @@
 ![导师](https://img3.cache.netease.com/photo/0003/2015-06-16/AS8E2HUS00B60003.jpg)
 ## 姓名
 ### 地址
+XXX办公楼
 ### 电话
+XXXXXXXXXX
 ### 邮箱
+XXX@XXX.com
 ## 背景
 ### 教育背景及工作经历
 * 学历1
