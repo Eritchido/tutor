@@ -1,5 +1,5 @@
 # tutor
-![导师](https://img3.cache.netease.com/photo/0003/2015-06-16/AS8E2HUS00B60003.jpg)
+![导师](https://img0.baidu.com/it/u=2429969874,3951745950&fm=253&fmt=auto&app=120&f=JPEG?w=1114&h=800)
 ## 姓名
 ### 地址
 XXX办公楼
